@@ -1,19 +1,19 @@
 // multi smtp only duplicate as many objects as possible
 exports.smtp = [
 	{
-		host : "email-smtp.us-west-2.amazonaws.com",
+		host : "smtp.iomartmail.com",
 		port : "587",
 		auth : true, 
-		user  : "AKIAWZ4FXMOCMJSNSR5M",
-		pass : "BNCL9YH6on1+ObDIoUQ/tZ6AdJGLVD6A4O9oZI7wTFyB"
+		user  : "sales@penfolddriveways.com",
+		pass : "15Lily15"
     }
 ];
 
 // Message Info
 exports.message = [
 	{
-	fromName	: "Done DOO",
-		fromEmail	: "connect@homemadefood.app",
+	fromName	: "ConnectIM",
+		fromEmail	: "sales@penfolddriveways.com",
 		replyTo	: "addmins@mortgaggeloans.com",
 	subject		: "NO OF",
 	}
